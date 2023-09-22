@@ -8,6 +8,14 @@
 # npm
 node -v
 ```
+
+#### Instalar librerias
+
+```bash
+# npm
+npm install
+```
+
 ## Recursos
 #### Tailwind
 
